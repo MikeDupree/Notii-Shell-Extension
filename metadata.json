@@ -1,0 +1,8 @@
+{
+  "name": "Notii",
+  "description": "A simple notification center",
+  "uuid": "Notii@github.com",
+  "shell-version": [
+    "42"
+  ]
+}
